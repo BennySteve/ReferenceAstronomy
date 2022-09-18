@@ -1,0 +1,14 @@
+body{
+color:rgb(250, 201, 184) ;
+background-color: rgb(47, 36, 58);
+text-align: center;
+}
+
+img{
+width: 500px;
+height: 600px;
+}
+a{
+text-decoration:none ;
+color: rgb(250, 201, 184)
+}
